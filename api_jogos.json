@@ -1,0 +1,14 @@
+[
+  {
+    "esporte": "Futebol",
+    "timeA": "Flamengo",
+    "timeB": "Vasco",
+    "odds": [1.8, 3.2, 4.0]
+  },
+  {
+    "esporte": "Basquete",
+    "timeA": "Lakers",
+    "timeB": "Heat",
+    "odds": [1.6, 3.0, 2.5]
+  }
+]

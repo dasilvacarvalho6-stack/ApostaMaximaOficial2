@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #111;
+  color: #fff;
+}
+header, footer {
+  background-color: #a00;
+  text-align: center;
+  padding: 1rem;
+}
+#menu-lateral {
+  float: left;
+  width: 150px;
+  background: #222;
+  padding: 1rem;
+}
+#jogos-container {
+  margin-left: 170px;
+  padding: 1rem;
+}
+#boletim {
+  position: fixed;
+  right: 0;
+  top: 100px;
+  width: 300px;
+  background: #222;
+  padding: 1rem;
+  border-left: 2px solid #a00;
+}
+button {
+  background: #a00;
+  color: white;
+  border: none;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  cursor: pointer;
+}

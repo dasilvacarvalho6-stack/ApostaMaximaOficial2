@@ -1,2 +1,3 @@
-# ApostaMaximaOficial2
-Site de aposta esportiva
+# Aposta Máxima
+
+Sistema de apostas esportivas completo (versão local).
